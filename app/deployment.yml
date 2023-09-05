@@ -42,7 +42,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: ktyee.training.dnsfor.me
+  - host: lookyee-manifest.training.dnsfor.me
     http:
       paths:
       - backend:
